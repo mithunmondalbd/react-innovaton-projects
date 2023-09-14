@@ -1,0 +1,56 @@
+[
+    {
+        "cover": "https://i.ibb.co/mz3ZNPf/medium-shot-beautiful-woman-recording.jpg",
+        "title": "A Journey Through Nature",
+        "posted_date": "2023-09-12",
+        "hashtag": ["#Nature", "#Outdoors", "#Adventure"],
+        "reading_time": 10,
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/9ZB3Zd5/gps-3918284.png",
+        "id": 1
+      },
+
+      {
+        "cover": "https://i.ibb.co/PQMZQ88/cropped-man-apron-putting-fried-chicken-from-frying-pan-plate.jpg",
+        "title": "Cooking Adventures",
+        "posted_date": "2023-09-11",
+        "hashtag": ["#Cooking", "#Recipes", "#Food"],
+        "reading_time": 15,
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/wCFSSrx/meal-10360398.png",
+        "id": 2
+      },
+
+      {
+        "cover": "https://i.ibb.co/dQcgWgy/crop-hands-inspecting-map.jpg",
+        "title": "Exploring History",
+        "posted_date": "2023-09-10",
+        "hashtag": ["#History", "#HistoricalPlaces", "#Archaeology"],
+        "reading_time": 12,
+        "author": "David Williams",
+        "author_img": "https://i.ibb.co/Y0F1k0s/history-8326309.png",
+        "id": 3
+      },
+
+      {
+        "cover": "https://i.ibb.co/K72wnzL/medium-shot-woman-wearing-vr-glasses.jpg",
+        "title": "Tech Innovations",
+        "posted_date": "2023-09-09",
+        "hashtag": ["#Technology", "#Innovation", "#TechNews"],
+        "reading_time": 8,
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/cNVWghF/digital-4959984.png",
+        "id": 4
+      },
+
+      {
+        "cover": "https://i.ibb.co/rpcnwp6/travel-items-arrangement-flat-lay.jpg",
+        "title": "Travel Diaries",
+        "posted_date": "2023-09-08",
+        "hashtag": ["#Travel", "#Adventure", "#Wanderlust"],
+        "reading_time": 14,
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/sPLbKH3/planner-10248658.png",
+        "id": 5
+      }
+]
